@@ -2,8 +2,8 @@
   "ver": "0.1",
   "info": {
     "id": "",
-    "name": "",
-    "description": "",
+    "name": "Jelly Blob",
+    "description": "This is a shader that looks like what you would see when you throw a rock in a pond at the evening when the sky is orange.",
     "tags": []
   },
   "renderpass": [
